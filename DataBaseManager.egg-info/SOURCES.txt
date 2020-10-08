@@ -1,0 +1,9 @@
+README.md
+setup.py
+DataBaseManager/__init__.py
+DataBaseManager/__main__.py
+DataBaseManager.egg-info/PKG-INFO
+DataBaseManager.egg-info/SOURCES.txt
+DataBaseManager.egg-info/dependency_links.txt
+DataBaseManager.egg-info/requires.txt
+DataBaseManager.egg-info/top_level.txt
