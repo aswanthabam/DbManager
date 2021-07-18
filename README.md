@@ -1,6 +1,6 @@
 # DataBaseManager
 
-<img src="https://badgen.net/badge/release/v%200.0.8"/>
+[![Python package](https://github.com/aswanthabam/DbManager/actions/workflows/python-package.yml/badge.svg)](https://github.com/aswanthabam/DbManager/actions/workflows/python-package.yml) [![Python application](https://github.com/aswanthabam/DbManager/actions/workflows/python-app.yml/badge.svg)](https://github.com/aswanthabam/DbManager/actions/workflows/python-app.yml) <img src="https://badgen.net/badge/release/v%201.0.0"/>
 
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://pypi.org/user/abam/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/aswanthabam) [![ABAM](https://badgen.net/badge/ABAM/view/)](https://abam.herokuapp.com/projects/Niram)
 
@@ -34,7 +34,7 @@ import DataBaseManager
 
 #### multiprocess:
 
-now (v0.0.8) supports multi processing. manage multiple databases(0-infinity)  By multiprocess object. one command to manage mulitple databases!. More info given below..
+now (v1.0.0) supports multi processing. manage multiple databases(0-infinity)  By multiprocess object. one command to manage mulitple databases!. More info given below..
 
 view: https://abam.herokuapp.com/projects/DataBaseManager
 
@@ -92,7 +92,7 @@ https://abam.herokuapp.com/projects/DataBaseManager
 
 ## Whats new
 
-V0.0.8--maked dirctly executable for sqlite use shell by Executing 'python -m DataBaseManager -sqlite your_file_name'<br>
+V1.0.0--maked dirctly executable for sqlite use shell by Executing 'python -m DataBaseManager -sqlite your_file_name'<br>
 fixed error in the shell<br>
 fixed bugs,
 fixed error in installing on linux
@@ -106,4 +106,4 @@ v0.0.4=>fixed bugs. not supported multiprocess object. not recommended<br>
 v0.0.5=>new  object multiprocess for manageing multiple database at the same time. not supported directly executing shell. not recommended<br>
 v0.0.6=>new directly executing shell. <br>
 v0.0.7=>new version . fixed error in installing on linux.<br>
-v0.0.8=>Fixed bugs<br>
+v1.0.0=>Fixed bugs<br>

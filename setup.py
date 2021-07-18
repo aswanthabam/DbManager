@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="DataBaseManager", # Replace with your own username
-    version="0.0.8",
+    version="1.0.0",
     author="Aswanth Vc",
     author_email="no-mail@example.com",
     description="A simple Database manager. You can manage database simply without using SQL or any other query language. The Inputs and outputs are in the form of JSON so you can simply share the data across networks. A simple SQL shell was attached to do more with Your Db.",

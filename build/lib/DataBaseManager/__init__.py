@@ -152,7 +152,7 @@ class sqlite:
         self.objected = self.cur.execute(sql)
         return self.objected
     def commit(self):self.conn.commit()
-    def executescript(sql):
+    def executescript(self,sql):
         self.objected = self.cur.executescript(sql)
         return self.objected
     def fetchone(self):return self.objected.fetchone()
