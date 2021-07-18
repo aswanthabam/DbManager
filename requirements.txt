@@ -1,1 +1,1 @@
-Languages>1.4.0@https://pypi.org/project/Languages/1.4.0/
+Languages
